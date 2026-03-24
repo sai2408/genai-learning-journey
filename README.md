@@ -4,7 +4,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini%20API-orange?logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-coming%20soon-yellowgreen)
 ![FastAPI](https://img.shields.io/badge/FastAPI-coming%20soon-009688?logo=fastapi&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Vertex%20AI-coming%20soon-4285F4?logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Vertex_AI-coming%20soon-4285F4?logo=googlecloud&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 A hands-on learning repository documenting my journey from **Python basics → GenAI development** using Google Gemini, LangChain, FastAPI, GCP Vertex AI, and Vector Databases.
