@@ -167,7 +167,7 @@ python basics/structured_bot.py
 
 I'm documenting this entire journey publicly. Follow along!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/sai-vardhan-thimmisetty/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-vardhan-thimmisetty/)
 - 🐙 [GitHub](https://github.com/sai2408)
 
 ---
