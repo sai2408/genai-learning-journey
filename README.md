@@ -82,10 +82,10 @@ genai-learning-journey/
 - [x] Structured JSON output
 
 ### Phase 2 — Advanced Bot Features 🔄 (In Progress)
-- [ ] Mood/tone detection (`mood.py`)
-- [ ] Persona switching (`persona.py`)
-- [ ] Enhanced memory management (`memory.py`)
-- [ ] Full PyBot tutor (`pybot.py`)
+- [x] Mood/tone detection (`mood.py`)
+- [x] Persona switching (`persona.py`)
+- [x] Enhanced memory management (`memory.py`)
+- [x] Full PyBot tutor (`pybot.py`)
 
 ### Phase 3 — Frameworks 📅 (Planned)
 - [ ] LangChain — chains, agents, tools
